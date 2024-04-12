@@ -1,0 +1,6 @@
+# dune init project inference
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/cowana/.cache/dune/db
+# Workspace root: /Users/cowana/workspace/ocaml/Inference/inference
+# Auto-detected concurrency: 10

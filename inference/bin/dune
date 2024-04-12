@@ -1,0 +1,5 @@
+(executable
+ (public_name inference)
+ (name main)
+ (libraries inference core)
+ (preprocess (pps ppx_deriving.show ppx_jane)))
